@@ -1,4 +1,4 @@
 algo cambio de nuevo
 
-Algo de prueba de manejo de errores
+Algo de prueba de manejo de errores desde github
 Otros cambios desde local
